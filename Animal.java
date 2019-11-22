@@ -7,4 +7,8 @@ public class Animal {
         this.name = name;
         this.furLength = furLength;
     }
+
+    public String getName() {
+        return this.name;
+    }
 }
