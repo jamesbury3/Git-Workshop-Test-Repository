@@ -9,6 +9,7 @@ public class Animal {
     }
 
     public String getName() {
-        return "Animal: " + this.name;
+        
+        return this.name;
     }
 }
