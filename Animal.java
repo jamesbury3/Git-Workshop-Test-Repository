@@ -14,7 +14,11 @@ public class Animal {
     }
 
     public int getFurLength() {
+<<<<<<< HEAD
         
         return this.furLength + 1 -1;
+=======
+        return this.furLength;
+>>>>>>> 5939d3fca64ec5e8eb00486cc0685cec6ca911e5
     }
 }
