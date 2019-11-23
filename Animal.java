@@ -12,4 +12,8 @@ public class Animal {
         
         return this.name;
     }
+
+    public int getFurLength() {
+        return this.furLength;
+    }
 }
